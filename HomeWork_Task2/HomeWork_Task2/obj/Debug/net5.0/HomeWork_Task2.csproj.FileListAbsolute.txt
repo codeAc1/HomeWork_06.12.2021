@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\06.12.2021\HomeWork_Task2\HomeWork_Task2\bin\Debug\net5.0\HomeWork_Task2.exe
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\06.12.2021\HomeWork_Task2\HomeWork_Task2\bin\Debug\net5.0\HomeWork_Task2.deps.json
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\06.12.2021\HomeWork_Task2\HomeWork_Task2\bin\Debug\net5.0\HomeWork_Task2.runtimeconfig.json
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\06.12.2021\HomeWork_Task2\HomeWork_Task2\bin\Debug\net5.0\HomeWork_Task2.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\06.12.2021\HomeWork_Task2\HomeWork_Task2\bin\Debug\net5.0\HomeWork_Task2.dll
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\06.12.2021\HomeWork_Task2\HomeWork_Task2\bin\Debug\net5.0\ref\HomeWork_Task2.dll
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\06.12.2021\HomeWork_Task2\HomeWork_Task2\bin\Debug\net5.0\HomeWork_Task2.pdb
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\06.12.2021\HomeWork_Task2\HomeWork_Task2\obj\Debug\net5.0\HomeWork_Task2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\06.12.2021\HomeWork_Task2\HomeWork_Task2\obj\Debug\net5.0\HomeWork_Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\06.12.2021\HomeWork_Task2\HomeWork_Task2\obj\Debug\net5.0\HomeWork_Task2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\06.12.2021\HomeWork_Task2\HomeWork_Task2\obj\Debug\net5.0\HomeWork_Task2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\06.12.2021\HomeWork_Task2\HomeWork_Task2\obj\Debug\net5.0\HomeWork_Task2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\06.12.2021\HomeWork_Task2\HomeWork_Task2\obj\Debug\net5.0\HomeWork_Task2.dll
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\06.12.2021\HomeWork_Task2\HomeWork_Task2\obj\Debug\net5.0\ref\HomeWork_Task2.dll
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\06.12.2021\HomeWork_Task2\HomeWork_Task2\obj\Debug\net5.0\HomeWork_Task2.pdb
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\06.12.2021\HomeWork_Task2\HomeWork_Task2\obj\Debug\net5.0\HomeWork_Task2.genruntimeconfig.cache
